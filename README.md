@@ -3,7 +3,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-proof-section-using-css-grid-and-flexbox-owNDVpuuP4)
 - [Live Site URL](https://eleneq.github.io/Social-proof-section/)
 
 ### Built with
