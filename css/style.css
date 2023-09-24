@@ -41,8 +41,9 @@ body {
 }
 
 .main-container {
-  padding: 3rem 2rem;
+  margin: 3rem 2rem;
   text-align: center;
+  padding-bottom: 3rem;
 }
 
 .intro-container {
