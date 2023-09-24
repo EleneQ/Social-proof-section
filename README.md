@@ -4,7 +4,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://eleneq.github.io/Social-proof-section/)
+- [Live Site URL](https://eleneq.github.io/Social-proof-section/)
 
 ### Built with
 
